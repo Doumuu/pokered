@@ -164,7 +164,7 @@ _BootedUpHMText::
 	prompt
 
 _TeachMachineMoveText::
-	text "Conté @"
+	text "És @"
 	text_ram wStringBuffer
 	text "!"
 

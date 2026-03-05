@@ -125,7 +125,7 @@ BillsHousePokemonListText1:
 BillsMonListText:
 	db   "Evo"
 	next "Guspiri"
-	next "Voltiri"
+	next "Llamperi"
 	next "Aquabi"
 	next "Enrere@"
 

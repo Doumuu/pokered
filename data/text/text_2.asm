@@ -923,7 +923,7 @@ _TrainerSentOutText::
 	done
 
 _NoWillText::
-	text "No tens forces"
+	text "No té forces"
 	line "per lluitar!"
 	prompt
 
