@@ -107,7 +107,7 @@
 	li "Curació"
 	li "Armadura"
 	li "Minvada"
-	li "Baf"
+	li "Pantalla fum"
 	li "Xoc radiant"
 	li "Reclusió"
 	li "Arronsada"

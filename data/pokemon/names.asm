@@ -33,7 +33,7 @@ MonsterNames::
 	db "SenseNúm.@"
 	db "SenseNúm.@"
 	db "Càdill@@@@@"
-	db "Acerp@@@@@"
+	db "Rocobra@@@"
 	db "Foradam@@@"
 	db "Parrup@@@@"
 	db "Salamandró"

@@ -1426,7 +1426,7 @@ _FullHealText::
 _ReviveText::
 	text_ram wNameBuffer
 	text_start
-	line "ha revifat!"
+	line "s'ha reanimat!"
 	done
 
 _RareCandyText::

@@ -18,13 +18,13 @@ _CinnabarGymBlaineReceivedVolcanoBadgeText::
 	line "apagat...!"
 
 	para "T'has guanyat la"
-	line "medalla Escarlata!@"
+	line "Medalla escarlata!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
-	text "Foc Daimonji agafa"
-	line "el nom del festi-"
-	cont "val de Kyoto!"
+	text "Daimonji agafa el"
+	line "nom del festival"
+	cont "de Kyoto!"
 
 	para "És una tècnica de"
 	line "foc molt poderosa!"
@@ -33,8 +33,8 @@ _CinnabarGymBlainePostBattleAdviceText::
 _CinnabarGymBlaineVolcanoBadgeInfoText::
 	text "Déu vos guard!"
 
-	para "La medalla"
-	line "Escarlata puja"
+	para "La Medalla"
+	line "escarlata puja"
 	cont "els moviments"
 	cont "especials!"
 
@@ -53,7 +53,7 @@ _CinnabarGymBlaineTM38ExplanationText::
 	text_start
 
 	para "MT38 conté"
-	line "Foc Daimonji."
+	line "Daimonji."
 
 	para "És ideal per als"
 	line "#mon de foc!"

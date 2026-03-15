@@ -96,8 +96,8 @@ _FightingDojoBlackbelt4BattleText::
 	text "Ei!"
 
 	para "Com t'atreveixes a"
-	line "faltar el respecte"
-	cont "a aquest dojo?"
+	line "faltar al respec-"
+	cont "te a aquest dojo?"
 	done
 
 _FightingDojoBlackbelt4EndBattleText::

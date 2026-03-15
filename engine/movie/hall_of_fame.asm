@@ -237,8 +237,10 @@ HoFDisplayPlayerStats:
 	call PlaceString
 	hlcoord 4, 10
 	ld de, wPlayerMoney
-	ld c, $a3
+	ld c, $83
 	call PrintBCDNumber
+	ld a, $f0 ;
+	ld [hl], a ;
 	ld hl, DexSeenOwnedText
 	call HoFPrintTextAndDelay
 	ld hl, DexRatingText

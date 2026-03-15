@@ -37,7 +37,7 @@ _SaffronGymSabrinaPostBattleAdviceText::
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "La medalla or"
+	text "La Medalla or"
 	line "fa que tots els"
 	cont "#mon fins al"
 	cont "n70 t'obeeixin."
