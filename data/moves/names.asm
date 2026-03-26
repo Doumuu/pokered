@@ -34,7 +34,7 @@
 	li "Perforador"
 	li "Placatge"
 	li "Planxa"
-	li "Constricció"
+	li "Restricció"
 	li "Envestida"
 	li "Furor"
 	li "Impacte"

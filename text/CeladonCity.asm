@@ -24,7 +24,7 @@ _CeladonCityGramps2Text::
 	line "tornat a escurar!"
 
 	para "Hauria d'haver"
-	line "interncanviat les"
+	line "intercanviat les"
 	cont "monedes!"
 	done
 

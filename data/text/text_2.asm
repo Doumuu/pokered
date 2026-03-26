@@ -329,14 +329,14 @@ _CinnabarGymQuizIntroText::
 	line "podràs passar a"
 	cont "la següent sala."
 
-	para "Si t'equivoces,"
-	line "et toca lluitar."
+	para "Si t'equivoques,"
+	line "hauràs de lluitar."
 
 	para "Si vols arribar al"
 	line "líder amb forces,"
-	cont "espavila't!"
+	cont "respon amb cura!"
 
-	line "Som-hi!"
+	cont "Pregunta:"
 	prompt
 
 _CinnabarQuizQuestionsText1::
@@ -365,8 +365,8 @@ _CinnabarQuizQuestionsText4::
 _CinnabarQuizQuestionsText5::
 	text "Dos #mon"
 	line "idèntics poden"
-	cont "tenir forces"
-	cont "diferents?"
+	cont "tenir nivells de"
+	cont "força diferents?"
 	done
 
 _CinnabarQuizQuestionsText6::
